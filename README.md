@@ -1,2 +1,2 @@
 # C++ Primer Plus Learning
-我只会从书上抄代码
+ 存一下每一章的Code list、复习题和编程练习
