@@ -1,0 +1,7 @@
+Focal length of objective: 15 mm
+f.l. eyepiece  magnification
+         1.0             15
+         2.0              8
+         3.0              5
+         4.0              4
+         5.0              3
